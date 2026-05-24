@@ -1,2 +1,10 @@
 
-IA
+
+
+🛠️ Compétences
+
+• Langages : Python,HTML, CSS, LaTeX
+
+
+
+
